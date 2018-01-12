@@ -1,0 +1,3 @@
+[submodule "starbase"]
+	path = starbase
+	url = ./starbase
