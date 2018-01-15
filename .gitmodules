@@ -1,3 +1,6 @@
 [submodule "starbase"]
 	path = starbase
 	url = ./starbase
+[submodule "starbase-router"]
+	path = starbase-router
+	url = git@github.com:padi/starbase-router.git
